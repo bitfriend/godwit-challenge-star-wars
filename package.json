@@ -17,6 +17,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "keywords": [
+    "Godwit Key Company",
+    "Star Wars"
+  ],
   "eslintConfig": {
     "extends": [
       "react-app",
