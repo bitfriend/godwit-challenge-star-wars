@@ -1,10 +1,6 @@
 # Code Challenge
 
-B. Create a small web app to consume the Star Wars API (https://swapi.dev/) in React.
-
-    1. The application should allow the user to search people by partial name (e.g. search for "skywalker") using SWAPI's people API endpoint.
-
-    2. List the results in alphabetical order in a bulleted list or table.
+[See problem B.](./CHALLENGE.md)
 
 # Getting Started with Create React App
 
